@@ -22,7 +22,7 @@ header h1 {
 }
 
 header h1 .seo {
-    color: #62af15;
+    color: #d9dcd6;
 }
 
 header div {
@@ -70,7 +70,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #f9f9f9;
 }
 
 .benefits div {

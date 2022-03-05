@@ -87,29 +87,27 @@ section div h2 {
     margin-bottom: 20px;
     font-size: 36px; 
 }
+
+/* right slide bar benefits */
 aside {
     width: 25%;
-}
-/* right slide bar benefits */
-.benefits {
+    margin-left: 20px;
     margin-right: 20px;
     padding: 20px;
     clear: both;
     float: right;
-    height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
-.benefits div {
+aside div {
     margin-bottom: 32px;
     color: #ffffff;
 }
-.benefits div h3 {
+aside div h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-.benefits div img {
+aside div img {
     display: block;
     margin: 10px auto;
     max-width: 150px;

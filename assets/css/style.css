@@ -60,14 +60,42 @@ p {
     background-size: cover;
     background-position: center;
 }
+main {
+    display: flex;
+    width: 100%;
 
+}
+/* content */
+section {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+section div {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+section div img {
+    max-height: 200px; 
+}
+section div h2 {
+    margin-bottom: 20px;
+    font-size: 36px; 
+}
+aside {
+    width: 25%;
+}
 /* right slide bar benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
     float: right;
-    width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
@@ -87,28 +115,7 @@ p {
     max-width: 150px;
 }
 
-/* content */
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
 
-.content div {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-.content div img {
-    max-height: 200px; 
-}
-.content div h2 {
-    margin-bottom: 20px;
-    font-size: 36px; 
-}
 /* fload left & right images content */
 .float-left {
     float: left;

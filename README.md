@@ -11,4 +11,4 @@ This is my first assignment at GA Bootcamp Coding 2022
 ![imagename](./assets/images/demo.png)
 
 ## Free to clone & modify
-` git clone https://github.com/vi3t4lov3/HW1-Code-Refactor.git`
+` git clone https://github.com/vi3t4lov3/Code-Refactor.git`
